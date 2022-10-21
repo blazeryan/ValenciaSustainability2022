@@ -1,0 +1,5 @@
+C:\source\1e\ValenciaSustainability\Main\UI\ValenciaSustainability\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\source\1e\ValenciaSustainability\Main\UI\ValenciaSustainability\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\source\1e\ValenciaSustainability\Main\UI\ValenciaSustainability\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\source\1e\ValenciaSustainability\Main\UI\ValenciaSustainability\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\source\1e\ValenciaSustainability\Main\UI\ValenciaSustainability\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
